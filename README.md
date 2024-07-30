@@ -2,7 +2,7 @@
 Welcome to the Nila Icecream website repository! This project is a fully responsive and interactive website showcasing a fictional ice cream shop called Nila Icecream. The website is built using HTML, CSS, and JavaScript, and it features a variety of engaging elements to enhance the user experience.
 
 ### Live Demo
-Check out the live demo of the website: [Nila Icecream Live Demo](https://gurumurthys1.github.io/ice_cream_shop_website/)
+Check out the live demo of the website: [Live Demo](https://gurumurthys1.github.io/ice_cream_shop_website/)
 ### Table of Contents
 *Project Overview <br/>
 *Features <br/>
